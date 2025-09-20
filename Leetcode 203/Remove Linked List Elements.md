@@ -4,6 +4,9 @@ Given the head of a linked list and an integer val, remove all the nodes of the 
 
 Example 1:
 
+<img width="782" height="222" alt="image" src="https://github.com/user-attachments/assets/bd272e60-067f-409a-891a-224efd864085" />
+
+
 
 Input: head = [1,2,6,3,4,5,6], val = 6
 Output: [1,2,3,4,5]
